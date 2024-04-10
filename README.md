@@ -1,3 +1,3 @@
 # hello-world
 this repository is for practicing the GitHub Flow 
-this is a test
+this is a test for the class
